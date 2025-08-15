@@ -1,2 +1,2 @@
 # philosophers
-Philosophers project
+Philosophers project avec le bonus
